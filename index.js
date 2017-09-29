@@ -28,3 +28,7 @@ function makeInt(n)
 {
   return n.parseInt()
 }
+function preserveDecimal(n)
+{
+  n.parseFloat();
+}
